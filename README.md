@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahil7953
-- 👀 I’m interested in coding ,data mangment ,data analyst , video editing 
+- 👀 I’m interested in Data Analysis, Business Analysis ,making some interesting and meaningful insights from raw Data 
 - 🌱 I’m currently learning at NSUT
 
 
